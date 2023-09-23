@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 404b42c426950dd40922509f5f4cd1ec22ce066d
 #include "monty.h"
 
 void monty_nop(stack_t **stack, unsigned int line_number);
